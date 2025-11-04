@@ -24,7 +24,7 @@
 ![ss6](https://user-images.githubusercontent.com/84134397/186984290-747dc8d6-6d10-4455-80b5-1a7a8240de90.png)
 
 ---
-## How to run this project :
+## How to run this project:
 
 ### 1. Project Folder Location
 * For Windows copy aecw folder to `xampp/htdocs/`
