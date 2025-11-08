@@ -16,7 +16,7 @@
 ![ss4_aboutus](https://user-images.githubusercontent.com/84134397/186980055-f486ddad-96db-4b90-b59e-c7e1a0887543.png)
 
 ---
-#### showing proper functioning of front-end + Back-end + database.
+#### Showing proper functioning of front-end + Back-end + database.
 ![ss5](https://user-images.githubusercontent.com/84134397/186980078-8df371f8-17e3-44d5-af52-4e6c6268d66c.png)
 
 ---
