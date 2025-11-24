@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-  <!--  font family -->
+  <!-- font family -->
   <link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Titillium+Web&display=swap" rel="stylesheet">
 
 </head>
