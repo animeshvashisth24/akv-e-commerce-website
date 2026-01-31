@@ -1,4 +1,4 @@
-<!-- used apache XAMPP server to create an environment on local machine to run this website -->
+<!--  used apache XAMPP server to create an environment on local machine to run this website -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
