@@ -15,7 +15,7 @@
 
   <div class="jumbotron">
     <h1>the Animesh Kumar Vashisth</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, deleniti.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipicing elit. Placeat, deleniti.</p>
   </div>
 
   <!-- about us -->
